@@ -1,0 +1,37 @@
+.filter-group-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  line-height: 2;
+  padding-left: 20px;
+}
+.horizon-filter {
+  height: 1px;
+  color: #7e858e;
+  border: 1px solid #7e858e;
+  width: 230px;
+  margin-top: 20px;
+}
+.employment-type {
+  display: flex;
+  flex-direction: column;
+}
+.employ-head {
+  font-size: 19px;
+}
+
+.employment-type-element {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.checkbox-input {
+  height: 16px;
+  width: 16px;
+  margin-right: 8px;
+}
+.checkbox-label {
+  font-size: 18px;
+}

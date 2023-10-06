@@ -1,0 +1,79 @@
+.job-card-container {
+  background-color: #202020;
+  border-radius: 16px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 10px;
+  width: 800px;
+  padding-left: 30px;
+  box-shadow: inset;
+  padding-right: 30px;
+}
+.link-job-card {
+  text-decoration: none;
+  color: white;
+}
+.job-card-image-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.job-card-image {
+  height: 80px;
+  width: 80px;
+  margin-right: 20px;
+}
+.job-card-title {
+  font-size: 20px;
+  font-weight: 500;
+}
+.job-card-rating {
+  font-size: 16px;
+}
+.job-card-star-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+.job-card-star {
+  color: gold;
+  font-size: 16px;
+  margin-right: 10px;
+}
+.job-card-location {
+  font-size: 18px;
+  margin-right: 50px;
+}
+.job-card-location-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.horizon-job-card {
+  height: 1px;
+  color: #7e858e;
+  border: 1px solid #7e858e;
+  width: 690px;
+}
+.location {
+  font-size: 16px;
+  color: white;
+  margin-right: 10px;
+}
+.job-card-annual {
+  margin: end;
+}
+.job-card-des {
+  font-size: 18px;
+  font-weight: 500;
+}
+.job-card-despot {
+  font-size: 16px;
+  line-height: 1.5;
+  width: 620px;
+}

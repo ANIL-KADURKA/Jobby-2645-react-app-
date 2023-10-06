@@ -1,0 +1,17 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.5;
+  background-color: black;
+  height: 100vh;
+}
+.not-found-header {
+  font-size: 28px;
+  color: white;
+}
+.not-found-para {
+  font-size: 22px;
+  color: white;
+}
